@@ -1,0 +1,2 @@
+# bktGftAllCheck
+全てのチェックボックスを選択/解除できるjQueryPlugin
